@@ -4,3 +4,9 @@ h1 {
     font-weight: 400;
     background-color: aqua;
 }
+
+p {
+    color:rebeccapurple;
+    font-size: 10px;
+    font-weight: 300;
+}
