@@ -1,0 +1,20 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "- practice - github fetch and merge = pull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atlas60229/TestProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atlas60229/TestProject/issues"
+  },
+  "homepage": "https://github.com/Atlas60229/TestProject#readme"
+}
