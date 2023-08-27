@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Atlas60229/TestProject/issues"
   },
-  "homepage": "https://github.com/Atlas60229/TestProject#readme"
+  "homepage": "https://github.com/Atlas60229/TestProject#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  }
 }
